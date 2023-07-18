@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pippo1291
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Node.js & React
+- 👀 I’m interested in DevOps, Linux & Network
+- 🌱 I’m currently learning Docker & Kubernetes
 - 📫 How to reach me scortecci.filippo.francesco@gmail.com
 
 <!---
