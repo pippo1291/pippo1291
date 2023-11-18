@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pippo1291, from Italy 🇮🇹 
-- 🔭 I'm currently working as a Functional Architect at Stellantis
+- 🔭 I'm currently working as Functional Architect at Stellantis
 - 💻 I'm an OSX user
 - 👀 I’m interested in DevOps, Linux, Network & Cloud
 - 🌱 I’m currently learning DevOps, CI/CD and some tools like Kubernetes, Docker, Terraform and AWS
